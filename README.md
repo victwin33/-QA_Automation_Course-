@@ -1,2 +1,5 @@
-# -QA_Automation_Course-
-Работы второй части курса(автоматизация тестирования)
+# QA_Automation_Course
+
+
+
+
